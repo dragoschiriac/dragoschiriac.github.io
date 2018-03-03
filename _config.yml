@@ -1,9 +1,9 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Dragos Chiriac
+bio: Chemistry, Machine Learning, and Synthetic Biology
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about chemistry, machine learning, and synthetic biology
 
 # if it's an external image, update below for true
 # better with square images
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://koppl.in/indigo
+url: https://dragoschiriac.github.io/
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
