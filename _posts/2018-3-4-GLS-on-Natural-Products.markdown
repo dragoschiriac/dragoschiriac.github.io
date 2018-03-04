@@ -7,7 +7,6 @@ headerImage: false
 tag:
 - chemistry
 - biosynthesis
-- symposium
 category: blog
 author: dschiriac
 description: Markdown summary with different options
