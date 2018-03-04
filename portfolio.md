@@ -2,7 +2,7 @@
 title: Portfolio
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+<h4>Portfolio</h4>
 
 <h2>Posters</h2>
 
