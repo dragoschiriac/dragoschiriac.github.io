@@ -4,31 +4,23 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Adding some new stuff here so you know that is a legit change</p>
-
-<h2>Skills - NONE</h2>
-
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
+<h2>Posters</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li><a href="https://www.dropbox.com/s/fp93qayt1j10dl6/QOMSBOC%20Poster.pdf?dl=0">Scaffold Guided Genomic Mining of Natural Product Analogues</a></li>
+	<li><a href="https://www.dropbox.com/s/m9qfmls9l0zulsd/Queens_Canada.pdf?dl=0">Breaking the Ice: Improving Antifreeze Proteins for Practical Use</a></li>
+</ul>
+
+<h2>Papers</h2>
+
+<ul class="skill-list">
+	<li>Stevens CA, Semrau J, <u>Chiriac D</u>, Litschko M, Campbell RL, Langelaan DN, Smith SP, Davies PL, Allingham JS.
+	Peptide backbone circularization enhances antifreeze protein thermostability. Protein Sci. 2017;
+	<a href="http://onlinelibrary.wiley.com/doi/10.1002/pro.3228/abstract">DOI: 10.1002/pro.3228</a></li>
+</ul>
+
+<h2>Presentations</h2>
+
+<ul>
+	<li><a href="https://www.dropbox.com/s/0q0rsav5k8t6urz/PHYG%20499%20EOY%20Presentation.pdf?dl=0">Angiogenic Conversion of NK Cells (Thesis)</a></li>
 </ul>
