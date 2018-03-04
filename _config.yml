@@ -53,12 +53,12 @@ github: dragoschiriac
 email: d.s.chiriac@gmail.com
 
 authors:
-    johndoe:
+    dschiriac:
         name: Dragos Chiriac
-        bio: A Man who travels the world eating noodles
+        bio: Just trying to be your above average graduate student
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: johndoe
+        twitter: DSChiriac
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
