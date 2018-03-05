@@ -2,7 +2,6 @@
 title: Portfolio
 layout: page
 ---
-<h1>Portfolio</h1>
 
 <h2>Posters</h2>
 

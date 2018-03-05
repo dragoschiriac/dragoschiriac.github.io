@@ -3,7 +3,7 @@ title: "Finding Shiny Strains with PCA"
 layout: post
 date: 2018-03-04 22:10
 tag:
-- metabolite
+- Biosynthesis
 - PCA
 image: /assets/images/markdown.jpg
 headerImage: false
