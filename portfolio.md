@@ -23,3 +23,7 @@ layout: page
 <ul>
 	<li><a href="https://www.dropbox.com/s/0q0rsav5k8t6urz/PHYG%20499%20EOY%20Presentation.pdf?dl=0">Angiogenic Conversion of NK Cells (Thesis)</a></li>
 </ul>
+
+<ul>
+	<li><a href="https://www.dropbox.com/s/4yzn2afsqmpyw1z/CSC%20Presentation.pdf?dl=0">A Medicinal Chemistry Approach to Genomic Mining (CSC 2018)</a></li>
+</ul>
